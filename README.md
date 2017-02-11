@@ -13,7 +13,7 @@ Codi Cain
   The purpose of this project is to be able to understand and utilize HTML elements when constructing websites that have purposes like calculating monthly expenses. 
 
 ### View Project:
-https://cec14s.github.io/-lesson4_javascript1/
+https://cec14s.github.io/-lesson4_javascript1/Lesson4_ExpenseCalculator/index.html
 
 ### Lessons Learned in the Assignment:
 1. To be able to declare, initialize, modify, and display the variables when it comes to creating applications to be used by end users to simplier their lives.
